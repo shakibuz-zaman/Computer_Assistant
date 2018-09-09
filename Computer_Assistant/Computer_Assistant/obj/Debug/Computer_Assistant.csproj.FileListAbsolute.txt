@@ -1,0 +1,10 @@
+E:\WorkFiles\C#\Computer_Assistant\VoiceBot\bin\Debug\Computer_Assistant.exe.config
+E:\WorkFiles\C#\Computer_Assistant\Computer_Assistant\bin\Debug\Computer_Assistant.exe.config
+E:\WorkFiles\C#\Computer_Assistant\Computer_Assistant\bin\Debug\Computer_Assistant.exe
+E:\WorkFiles\C#\Computer_Assistant\Computer_Assistant\bin\Debug\Computer_Assistant.pdb
+E:\WorkFiles\C#\Computer_Assistant\Computer_Assistant\obj\Debug\Computer_Assistant.csprojResolveAssemblyReference.cache
+E:\WorkFiles\C#\Computer_Assistant\Computer_Assistant\obj\Debug\Computer_Assistant.Form1.resources
+E:\WorkFiles\C#\Computer_Assistant\Computer_Assistant\obj\Debug\Computer_Assistant.Properties.Resources.resources
+E:\WorkFiles\C#\Computer_Assistant\Computer_Assistant\obj\Debug\Computer_Assistant.csproj.GenerateResource.Cache
+E:\WorkFiles\C#\Computer_Assistant\Computer_Assistant\obj\Debug\Computer_Assistant.exe
+E:\WorkFiles\C#\Computer_Assistant\Computer_Assistant\obj\Debug\Computer_Assistant.pdb
